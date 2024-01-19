@@ -10,9 +10,9 @@ audio{
 .heading{
   margin: 30px;
   font-family: 'Arial Narrow', cursive;
-  text-shadow: 5px 0 lightyellow;
+  text-shadow: 5px 0 green;
   font-size: 6rem;
-  color:yellow;
+  color:orange;
 }
 
 .dice {
